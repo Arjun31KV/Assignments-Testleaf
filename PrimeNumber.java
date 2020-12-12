@@ -15,11 +15,11 @@ public class PrimeNumber {
 			}
 			if(flag==true)
 			{
-				System.out.println("Prime");
+				System.out.println("Not Prime");
 			}
 			else
 			{
-				System.out.println("Not Prime");
+				System.out.println("Prime");
 			}
 			
 			
